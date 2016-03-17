@@ -6,3 +6,7 @@ you just going to swipe and thats it.
 We have TG Card
 We have a Scanner
 WE have a Application
+
+Our App is to give jobs to the door operator
+Drivers will be payed good
+Owners will be able to see and know how are they doing in their business.
